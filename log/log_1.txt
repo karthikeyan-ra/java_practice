@@ -1,0 +1,2 @@
+saplogon.exe|5488|John|01|11720000
+outlook.exe|1688|John|03|50856000

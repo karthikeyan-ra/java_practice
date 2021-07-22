@@ -1,0 +1,10 @@
+nfping.exe|8124|SYSTEM|32|4528000
+jusched.exe|4892|John|22|84000
+locator.exe|816|NETWORK_SERVICE|00|92000
+nfping.exe|2052|SYSTEM|00|992000
+srvstart.exe|704|SYSTEM|03|202000
+mDNSResponder.exe|952|SYSTEM|39|1128000
+saplogon.exe|5488|John|01|11720000
+outlook.exe|1688|John|03|50856000
+saplogon.exe|5488|John|01|11720000
+outlook.exe|1688|John|03|50856000
