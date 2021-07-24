@@ -1,4 +1,4 @@
-public class Record {
+public class Record implements Cloneable{
     String processName;
     int processId;
     String user;
@@ -45,6 +45,11 @@ public class Record {
         this.bytesOfMemeory = bytesOfMemeory;
     }
 
+
+    public Object clone() throws CloneNotSupportedException
+    {
+        return super.clone();
+    }
 
     @Override
     public String toString() {

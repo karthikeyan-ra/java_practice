@@ -101,13 +101,6 @@ public class Test {
 
                 System.out.println("modifiedLst::"+modifiedLst);
 
-
-                // List a= lst.stream().collect(Collectors.toList());
-                //System.out.println("a::"+a);
-
-
-
-
             }
 
         } catch (Exception e) {
